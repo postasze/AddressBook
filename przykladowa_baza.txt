@@ -1,0 +1,486 @@
+Ksiazka adresowo-spolecznosciowa
+Liczba elementow: 50, biezacy id: 51
+
+Osoba, id 1
+Dane osobowe:
+Jan Bartosz Nowicki nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 2
+Dane osobowe:
+Michal Blazej Glowacki nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 3
+Dane osobowe:
+Jan _ Kmicic nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 4
+Dane osobowe:
+Boguslaw Przemyslaw Nowacki nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 5
+Dane osobowe:
+Jakub _ Jakubowski nr telefonu: 987654321
+Adres:
+Ulica Wyboista 35/67, kod pocztowy: 43-211 miasto: Raclawice
+
+Osoba, id 6
+Dane osobowe:
+Jan Maciej Matejko nr telefonu: 192837465
+Adres:
+Ulica Smolna 9/99, kod pocztowy: 83-237 miasto: Poznan
+
+Osoba, id 7
+Dane osobowe:
+Jan _ Kowalski nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 8
+Dane osobowe:
+Michal _ Szczesny nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 9
+Dane osobowe:
+Andrzej _ Kulewicz nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 10
+Dane osobowe:
+Maciej _ Nowak nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 11
+Dane osobowe:
+Adam _ Mochnacki nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 12
+Dane osobowe:
+Mateusz _ Madziarski nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 13
+Dane osobowe:
+Wladyslaw _ Pokorski nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 14
+Dane osobowe:
+Jan _ Nowacki nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 15
+Dane osobowe:
+Robert _ Jakubowski nr telefonu: 987654321
+Adres:
+Ulica Wyboista 35/67, kod pocztowy: 43-211 miasto: Raclawice
+
+Osoba, id 16
+Dane osobowe:
+Jan _ Madej nr telefonu: 192837465
+Adres:
+Ulica Smolna 9/99, kod pocztowy: 83-237 miasto: Poznan
+
+Osoba, id 17
+Dane osobowe:
+Jakub _ Zalewski nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 18
+Dane osobowe:
+Antoni _ Szczesny nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 19
+Dane osobowe:
+Krzysztof _ Tomaszewski nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 20
+Dane osobowe:
+Adam _ Wozniak nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 21
+Dane osobowe:
+Franciszek _ Michalak nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 22
+Dane osobowe:
+Tomasz _ Witkowski nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 23
+Dane osobowe:
+Igor _ Gorski nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 24
+Dane osobowe:
+Wiktor _ Pawlak nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 25
+Dane osobowe:
+Bartosz _ Olszewski nr telefonu: 987654321
+Adres:
+Ulica Wyboista 35/67, kod pocztowy: 43-211 miasto: Raclawice
+
+Osoba, id 26
+Dane osobowe:
+Lech _ Stepien nr telefonu: 192837465
+Adres:
+Ulica Smolna 9/99, kod pocztowy: 83-237 miasto: Poznan
+
+Osoba, id 27
+Dane osobowe:
+Kamil _ Kowalski nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 28
+Dane osobowe:
+Karol _ Jaworski nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 29
+Dane osobowe:
+Marcel _ Wrobel nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 30
+Dane osobowe:
+Tomasz _ Wozniak nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 31
+Dane osobowe:
+Pawel _ Mazur nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 32
+Dane osobowe:
+Lukasz _ Kaminski nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 33
+Dane osobowe:
+Nikodem _ Lewandowski nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 34
+Dane osobowe:
+Krystian _ Szymanski nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 35
+Dane osobowe:
+Jakub _ Kaczmarek nr telefonu: 987654321
+Adres:
+Ulica Wyboista 35/67, kod pocztowy: 43-211 miasto: Raclawice
+
+Osoba, id 36
+Dane osobowe:
+Jan _ Wojewodzki nr telefonu: 192837465
+Adres:
+Ulica Smolna 9/99, kod pocztowy: 83-237 miasto: Poznan
+
+Osoba, id 37
+Dane osobowe:
+Marcin _ Majewski nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 38
+Dane osobowe:
+Damian _ Michalski nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 39
+Dane osobowe:
+Daniel _ Kulewicz nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 40
+Dane osobowe:
+Konrad _ Krawczyk nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 41
+Dane osobowe:
+Stanislaw _ Wojciechowski nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 42
+Dane osobowe:
+Szymon _ Kwiatkowski nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 43
+Dane osobowe:
+Filip _ Dabrowski nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 44
+Dane osobowe:
+Bartosz _ Kowalczyk nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Osoba, id 45
+Dane osobowe:
+Mateusz _ Krol nr telefonu: 987654321
+Adres:
+Ulica Wyboista 35/67, kod pocztowy: 43-211 miasto: Raclawice
+
+Osoba, id 46
+Dane osobowe:
+Patryk _ Pawlowski nr telefonu: 192837465
+Adres:
+Ulica Smolna 9/99, kod pocztowy: 83-237 miasto: Poznan
+
+Osoba, id 47
+Dane osobowe:
+Pawel _ Grabowski nr telefonu: 123456789
+Adres:
+Ulica Polna 17/2, kod pocztowy: 01-123 miasto: Warszawa
+
+Osoba, id 48
+Dane osobowe:
+Wojciech _ Jankowski nr telefonu: 839490523
+Adres:
+Ulica Prosta 4/56, kod pocztowy: 12-345 miasto: Gniezno
+
+Osoba, id 49
+Dane osobowe:
+Kamil _ Kozlowski nr telefonu: 116300593
+Adres:
+Ulica Dluga 23/39, kod pocztowy: 02-468 miasto: Gdansk
+
+Osoba, id 50
+Dane osobowe:
+Maciej _ Wisniewski nr telefonu: 630573512
+Adres:
+Ulica Sokratesa 13/12, kod pocztowy: 01-248 miasto: Krakow
+
+Informacje o znajomosciach miedzy osobami
+
+Znajomi osoby o identyfikatorze 1:
+Id 2 Michal Glowacki stopien znajomosci: 5
+Id 5 Jakub Jakubowski stopien znajomosci: 8
+Id 47 Pawel Grabowski stopien znajomosci: 4
+Id 46 Patryk Pawlowski stopien znajomosci: 4
+
+Znajomi osoby o identyfikatorze 2:
+Id 1 Jan Nowicki stopien znajomosci: 5
+Id 3 Jan Kmicic stopien znajomosci: 1
+Id 13 Wladyslaw Pokorski stopien znajomosci: 8
+
+Znajomi osoby o identyfikatorze 3:
+Id 2 Michal Glowacki stopien znajomosci: 4
+Id 4 Boguslaw Nowacki stopien znajomosci: 7
+Id 6 Jan Matejko stopien znajomosci: 7
+
+Znajomi osoby o identyfikatorze 4:
+Id 3 Jan Kmicic stopien znajomosci: 1
+Id 5 Jakub Jakubowski stopien znajomosci: 2
+Id 30 Tomasz Wozniak stopien znajomosci: 8
+
+Znajomi osoby o identyfikatorze 5:
+Id 4 Boguslaw Nowacki stopien znajomosci: 9
+Id 1 Jan Nowicki stopien znajomosci: 10
+
+Znajomi osoby o identyfikatorze 6:
+Id 3 Jan Kmicic stopien znajomosci: 3
+Id 7 Jan Kowalski stopien znajomosci: 3
+
+Znajomi osoby o identyfikatorze 7:
+Id 17 Jakub Zalewski stopien znajomosci: 4
+Id 27 Kamil Kowalski stopien znajomosci: 3
+Id 6 Jan Matejko stopien znajomosci: 5
+
+Znajomi osoby o identyfikatorze 8:
+Id 25 Bartosz Olszewski stopien znajomosci: 10
+Id 17 Jakub Zalewski stopien znajomosci: 8
+
+Znajomi osoby o identyfikatorze 9:
+Id 36 Jan Wojewodzki stopien znajomosci: 2
+Id 17 Jakub Zalewski stopien znajomosci: 3
+
+Znajomi osoby o identyfikatorze 10:
+
+Znajomi osoby o identyfikatorze 11:
+Id 21 Franciszek Michalak stopien znajomosci: 8
+
+Znajomi osoby o identyfikatorze 12:
+Id 33 Nikodem Lewandowski stopien znajomosci: 8
+
+Znajomi osoby o identyfikatorze 13:
+Id 2 Michal Glowacki stopien znajomosci: 5
+
+Znajomi osoby o identyfikatorze 14:
+Id 29 Marcel Wrobel stopien znajomosci: 4
+Id 34 Krystian Szymanski stopien znajomosci: 3
+
+Znajomi osoby o identyfikatorze 15:
+
+Znajomi osoby o identyfikatorze 16:
+Id 22 Tomasz Witkowski stopien znajomosci: 6
+
+Znajomi osoby o identyfikatorze 17:
+Id 7 Jan Kowalski stopien znajomosci: 7
+Id 8 Michal Szczesny stopien znajomosci: 9
+Id 9 Andrzej Kulewicz stopien znajomosci: 8
+
+Znajomi osoby o identyfikatorze 18:
+
+Znajomi osoby o identyfikatorze 19:
+Id 27 Kamil Kowalski stopien znajomosci: 10
+
+Znajomi osoby o identyfikatorze 20:
+Id 30 Tomasz Wozniak stopien znajomosci: 6
+
+Znajomi osoby o identyfikatorze 21:
+Id 11 Adam Mochnacki stopien znajomosci: 10
+Id 28 Karol Jaworski stopien znajomosci: 10
+Id 49 Kamil Kozlowski stopien znajomosci: 3
+
+Znajomi osoby o identyfikatorze 22:
+Id 16 Jan Madej stopien znajomosci: 4
+Id 33 Nikodem Lewandowski stopien znajomosci: 4
+
+Znajomi osoby o identyfikatorze 23:
+Id 42 Szymon Kwiatkowski stopien znajomosci: 7
+
+Znajomi osoby o identyfikatorze 24:
+
+Znajomi osoby o identyfikatorze 25:
+Id 41 Stanislaw Wojciechowski stopien znajomosci: 9
+Id 8 Michal Szczesny stopien znajomosci: 9
+Id 26 Lech Stepien stopien znajomosci: 5
+
+Znajomi osoby o identyfikatorze 26:
+Id 25 Bartosz Olszewski stopien znajomosci: 8
+
+Znajomi osoby o identyfikatorze 27:
+Id 19 Krzysztof Tomaszewski stopien znajomosci: 9
+Id 7 Jan Kowalski stopien znajomosci: 9
+
+Znajomi osoby o identyfikatorze 28:
+Id 47 Pawel Grabowski stopien znajomosci: 4
+Id 31 Pawel Mazur stopien znajomosci: 7
+Id 21 Franciszek Michalak stopien znajomosci: 2
+
+Znajomi osoby o identyfikatorze 29:
+Id 14 Jan Nowacki stopien znajomosci: 8
+Id 48 Wojciech Jankowski stopien znajomosci: 1
+
+Znajomi osoby o identyfikatorze 30:
+Id 20 Adam Wozniak stopien znajomosci: 5
+Id 4 Boguslaw Nowacki stopien znajomosci: 3
+
+Znajomi osoby o identyfikatorze 31:
+Id 28 Karol Jaworski stopien znajomosci: 4
+
+Znajomi osoby o identyfikatorze 32:
+Id 33 Nikodem Lewandowski stopien znajomosci: 2
+
+Znajomi osoby o identyfikatorze 33:
+Id 12 Mateusz Madziarski stopien znajomosci: 4
+Id 47 Pawel Grabowski stopien znajomosci: 8
+Id 32 Lukasz Kaminski stopien znajomosci: 1
+Id 22 Tomasz Witkowski stopien znajomosci: 3
+
+Znajomi osoby o identyfikatorze 34:
+Id 14 Jan Nowacki stopien znajomosci: 2
+
+Znajomi osoby o identyfikatorze 35:
+Id 46 Patryk Pawlowski stopien znajomosci: 9
+Id 43 Filip Dabrowski stopien znajomosci: 7
+
+Znajomi osoby o identyfikatorze 36:
+Id 9 Andrzej Kulewicz stopien znajomosci: 7
+
+Znajomi osoby o identyfikatorze 37:
+
+Znajomi osoby o identyfikatorze 38:
+Id 50 Maciej Wisniewski stopien znajomosci: 2
+
+Znajomi osoby o identyfikatorze 39:
+
+Znajomi osoby o identyfikatorze 40:
+Id 44 Bartosz Kowalczyk stopien znajomosci: 4
+
+Znajomi osoby o identyfikatorze 41:
+Id 25 Bartosz Olszewski stopien znajomosci: 6
+
+Znajomi osoby o identyfikatorze 42:
+Id 23 Igor Gorski stopien znajomosci: 4
+
+Znajomi osoby o identyfikatorze 43:
+Id 35 Jakub Kaczmarek stopien znajomosci: 4
+
+Znajomi osoby o identyfikatorze 44:
+Id 40 Konrad Krawczyk stopien znajomosci: 7
+
+Znajomi osoby o identyfikatorze 45:
+
+Znajomi osoby o identyfikatorze 46:
+Id 35 Jakub Kaczmarek stopien znajomosci: 3
+Id 50 Maciej Wisniewski stopien znajomosci: 9
+Id 1 Jan Nowicki stopien znajomosci: 8
+
+Znajomi osoby o identyfikatorze 47:
+Id 28 Karol Jaworski stopien znajomosci: 8
+Id 1 Jan Nowicki stopien znajomosci: 8
+Id 33 Nikodem Lewandowski stopien znajomosci: 2
+
+Znajomi osoby o identyfikatorze 48:
+Id 49 Kamil Kozlowski stopien znajomosci: 4
+Id 29 Marcel Wrobel stopien znajomosci: 2
+
+Znajomi osoby o identyfikatorze 49:
+Id 48 Wojciech Jankowski stopien znajomosci: 3
+Id 21 Franciszek Michalak stopien znajomosci: 6
+
+Znajomi osoby o identyfikatorze 50:
+Id 38 Damian Michalski stopien znajomosci: 7
+Id 46 Patryk Pawlowski stopien znajomosci: 8
